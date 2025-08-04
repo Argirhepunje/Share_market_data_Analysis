@@ -1,0 +1,70 @@
+name,symbol,type,logo_link
+UltraTech Cement Limited,ULTRACEMCO.NS,Stocks,https://i.postimg.cc/3wg0zsRn/ULTRACEMCO-NS.png
+Tata Consumer Products Limited,TATACONSUM.NS,Stocks,https://i.postimg.cc/HshMM0R4/TATAMOTORS-NS-BIG.png
+NTPC Limited,NTPC.NS,Stocks,https://i.postimg.cc/mkZ9YmTV/NTPC-NS.png
+Trent Limited,TRENT.NS,Stocks,https://i.postimg.cc/HnLJcjth/TRENT-NS-BIG.png
+Tata Steel Limited,TATASTEEL.NS,Stocks,https://i.postimg.cc/g2LZHXP9/TATASTEEL-NS-BIG.png
+Bajaj Auto Limited,BAJAJ-AUTO.NS,Stocks,https://i.postimg.cc/cCcmZKLk/BAJAJ-AUTO-NS-BIG.png
+Bajaj Finserv Ltd,BAJAJFINSV.NS,Stocks,https://i.postimg.cc/xjGgLZ3G/BAJAJFINSV-NS-BIG.png
+Hero MotoCorp Limited,HEROMOTOCO.NS,Stocks,https://i.postimg.cc/7631MC0P/HEROMOTOCO-NS-BIG.png
+Kotak Mahindra Bank Limited,KOTAKBANK.NS,Stocks,https://i.postimg.cc/bw4170RN/KOTAKBANK-NS.png
+Oil and Natural Gas Corporation Limited,ONGC.NS,Stocks,https://i.postimg.cc/y6nc1CTG/ONGC-NS-BIG.png
+IndusInd Bank Limited,INDUSINDBK.NS,Stocks,https://i.postimg.cc/6qzdgDMD/INDUSINDBK-NS.png
+Hindalco Industries Limited,HINDALCO.NS,Stocks,https://i.postimg.cc/7Z5gtt0W/HINDALCO-NS-BIG.png
+Larsen & Toubro Limited,LT.NS,Stocks,https://i.postimg.cc/sXr7XV8k/LT-NS-BIG.png
+Maruti Suzuki India Limited,MARUTI.NS,Stocks,https://i.postimg.cc/cHBYtpGr/MARUTI-NS.png
+HDFC Life Insurance Company Limited,HDFCLIFE.NS,Stocks,https://i.postimg.cc/25B7y95Z/HDFCLIFE-NS-BIG.png
+Apollo Hospitals Enterprise Limited,APOLLOHOSP.NS,Stocks,https://i.postimg.cc/KvZff506/APOLLOHOSP-NS-BIG.png
+Bajaj Finance Limited,BAJFINANCE.NS,Stocks,https://i.postimg.cc/VLDRVbTd/BAJFINANCE-NS.png
+Tata Consultancy Services Limited,TCS.NS,Stocks,https://i.postimg.cc/pdNnGW2m/TCS-NS.png
+Shriram Finance Limited,SHRIRAMFIN.NS,Stocks,
+Coal India Limited,COALINDIA.NS,Stocks,https://i.postimg.cc/9M5t7P4N/COALINDIA-NS-BIG.png
+Wipro Limited,WIPRO.NS,Stocks,https://i.postimg.cc/Y9RGCQQF/WIT.png
+ITC Limited,ITC.NS,Stocks,https://i.postimg.cc/WbWGncFZ/ITC-NS.png
+Nestle India Limited,NESTLEIND.NS,Stocks,https://i.postimg.cc/fyH9BYLs/NESTLEIND-NS-BIG.png
+Bharti Airtel Limited,BHARTIARTL.NS,Stocks,https://i.postimg.cc/W1znL1LS/BHARTIARTL-NS-BIG.png
+Cipla Limited,CIPLA.NS,Stocks,https://i.postimg.cc/cLzcsGdW/CIPLA-NS-BIG.png
+Titan Company Limited,TITAN.NS,Stocks,https://i.postimg.cc/ZR4vmwvZ/TITAN-NS-BIG.png
+Reliance Industries Limited,RELIANCE.NS,Stocks,https://i.postimg.cc/7Y67btsZ/RELIANCE-NS.png
+Adani Enterprises Limited,ADANIENT.NS,Stocks,https://i.postimg.cc/7h4Vp1wT/ADANIENT-NS.png
+Jio Financial Services Limited,JIOFIN.NS,Stocks,https://i.postimg.cc/25vnrqHd/JIOFIN-NS.png
+Bitcoin,BTC-USD,Crypto,https://i.postimg.cc/8CQHXxDP/1-2.png
+Ethereum,ETH-USD,Crypto,https://i.postimg.cc/WpgZp8Bx/1027.png
+UNUS SED LEO,LEO-USD,Crypto,https://i.postimg.cc/fRtDZ2F9/3957.png
+Solana,SOL-USD,Crypto,https://i.postimg.cc/rm6pvXws/5426.png
+Binance Coin,BND-USD,Crypto,https://i.postimg.cc/fTkhjqMr/1839.png
+XRP,XRP-USD,Crypto,https://i.postimg.cc/bvRzFGWC/52.png
+Lido Staked Ether,STETH-USD,Crypto,https://i.postimg.cc/YC6khGrr/8085.png
+USD Coin,USDC-USD,Crypto,https://i.postimg.cc/MHJqD7WW/3408.png
+Cardano,ADA-USD,Crypto,https://i.postimg.cc/xCz9MxVx/2010.png
+First Digital USD,FDUSD-USD,Crypto,https://i.postimg.cc/MGcwJPH6/26081.png
+Filecoin,FIL-USD,Crypto,https://i.postimg.cc/Y0GcJ83c/2280.png
+Wrapped Ethereum,WETH,Crypto,https://i.postimg.cc/cC7Z5vHf/2396.png
+Chainlink,LINK-USD,Crypto,https://i.postimg.cc/zfMJLm6H/1975.png
+Avalanche,AVAX-USD,Crypto,https://i.postimg.cc/sDy3G46m/5805.png
+Wrapped Bitcoin,WBTC-USD,Crypto,https://i.postimg.cc/1RD9zjH4/3717.png
+Venus BNB,VBNB-USD,Crypto,https://i.postimg.cc/Z55ZVKhy/7961.png
+Tether,USDT-USD,Crypto,https://i.postimg.cc/43WD9prg/825.png
+ EUR/USD     ,EURUSD=X,Currencies,
+ USD/JPY      ,JPY=X,Currencies,
+ GBP/USD     , GBPUSD=X,Currencies,
+ AUD/USD      ,AUDUSD=X,Currencies,
+ NZD/USD     ,NZDUSD=X,Currencies,
+EUR/JPY     , EURJPY=X,Currencies,
+GBP/JPY,GBPJPY=X,Currencies,
+EUR/GBP,EURGBP=X,Currencies,
+EUR/CAD,EURCAD=X,Currencies,
+EUR/SEK,EURSEK=X,Currencies,
+EUR/CHF,EURCHF=X,Currencies,
+EUR/HUF,EURHUF=X,Currencies,
+USD/CNY,CNY=X,Currencies,
+USD/HKD,HKD=X,Currencies,
+USD/SGD,SGD=X,Currencies,
+USD/INR,INR=X,Currencies,
+USD/MXN,MXN=X,Currencies,
+USD/PHP,PHP=X,Currencies,
+USD/IDR,IDR=X,Currencies,
+USD/THB,THB=X,Currencies,
+USD/MYR,MYR=X,Currencies,
+USD/ZAR,ZAR=X,Currencies,
+USD/RUB,RUB=X,Currencies,
